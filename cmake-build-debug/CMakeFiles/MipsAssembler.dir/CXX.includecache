@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rafaelaguilera/OneDrive/Documents/Code Ondrive/CLionProjects/MipsAssembler/main.cpp
+stdio.h
+-
+ctype.h
+-
+memory.h
+-
+stdlib.h
+-
+
